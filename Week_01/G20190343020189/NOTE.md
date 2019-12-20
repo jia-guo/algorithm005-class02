@@ -1,5 +1,5 @@
-学习笔记
-
+学习笔记 ###
+###
 # 80. Remove Duplicates from Sorted Array
 
 Last visited: Dec 01, 2019
@@ -7,13 +7,13 @@ Star: ⭐️
 Tag: 2P
 Type: Easy, Medium
 🚴‍♀️Count: 2
-
+***
 ## 复习思想：找最小重复单元 - 万变不离其宗
 
 - if else
 - loop
 - recursion
-
+***
 ## 本题重复单元：
 
 - 微操：
